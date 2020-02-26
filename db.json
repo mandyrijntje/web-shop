@@ -1,0 +1,192 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "categoryId": 1,
+      "name": "Apple",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/59fec2a8692ebe060b80f3d2/1551228781151-H87Y18TZYJ8MRT4QGCT7/ke17ZwdGBToddI8pDm48kLPswmMOqQZ9-Q6KHLjvbpZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UTcpTqfU-ZEsztPyQLxhSSK-PhJjRDDFQG0l3_ZnmWi1QjT9byXZM3ISxo3y1NRptg/Red+Apple.jpg?format=2500w",
+      "inStock": true,
+      "price": "1400.00"
+    },
+    {
+      "id": 2,
+      "categoryId": 3,
+      "name": "Star Anise",
+      "grams": 500,
+      "imageUrl": "https://chasdomundo.pt/413-large_default/star-anise-illicium-verum.jpg",
+      "inStock": true,
+      "price": "2500.00"
+    },
+    {
+      "id": 3,
+      "categoryId": 4,
+      "name": "Thyme",
+      "grams": 500,
+      "imageUrl": "https://colonelde.com/wp-content/uploads/2017/07/Thyme-Leaf-Cut-Sifted-5079.jpg",
+      "inStock": false,
+      "price": "500.00"
+    },
+    {
+      "id": 4,
+      "categoryId": 2,
+      "name": "Lemon",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0206/9470/products/HFM_4621_W_1000PX_3_1024x1024.jpg?v=1476802468",
+      "inStock": true,
+      "price": "1000.00"
+    },
+    {
+      "id": 5,
+      "categoryId": 3,
+      "name": "Cinnamon",
+      "grams": 500,
+      "imageUrl": "https://www.justingredients.co.uk/media/catalog/product/1/2/123ci_1.jpg",
+      "inStock": false,
+      "price": "3900.00"
+    },
+    {
+      "id": 6,
+      "categoryId": 1,
+      "name": "Banana",
+      "imageUrl": "https://i5.walmartimages.com/asr/209bb8a0-30ab-46be-b38d-58c2feb93e4a_1.1a15fb5bcbecbadd4a45822a11bf6257.jpeg",
+      "inStock": true,
+      "price": "9900.00"
+    },
+    {
+      "id": 7,
+      "categoryId": 2,
+      "name": "Aubergine",
+      "imageUrl": "https://cf.shopee.ph/file/0bcfe0c91e65d4838d7e966e5f70d06a",
+      "inStock": false,
+      "price": "5100.00"
+    },
+    {
+      "id": 8,
+      "categoryId": 4,
+      "name": "Rosemary",
+      "grams": 500,
+      "imageUrl": "https://www.wallysproducegladstone.com.au/wp-content/uploads/2019/04/rosemary_762281200-600x600.jpg",
+      "inStock": true,
+      "price": "750.00"
+    },
+    {
+      "id": 9,
+      "categoryId": 2,
+      "name": "Carrot",
+      "imageUrl": "https://www.bazaarfresh.in/wp-content/uploads/2017/01/Carrot.jpg",
+      "inStock": false,
+      "price": "1100.00"
+    },
+    {
+      "id": 10,
+      "categoryId": 4,
+      "name": "Parsley",
+      "grams": 500,
+      "imageUrl": "https://i5.walmartimages.ca/images/Enlarge/094/551/6000200094551.jpg",
+      "inStock": false,
+      "price": "900.00"
+    },
+    {
+      "id": 11,
+      "categoryId": 1,
+      "name": "Kiwi",
+      "imageUrl": "https://www.basket4home.com/wp-content/uploads/2019/12/0000000040303_a1c1_1200.png",
+      "inStock": true,
+      "price": "30.00"
+    },
+    {
+      "id": 12,
+      "categoryId": 3,
+      "name": "Vanilla",
+      "grams": 500,
+      "imageUrl": "https://www.delicious-vanilla.eu/wp-content/uploads/2018/05/Madagascar-Premium-Bourbon-Vanilla-Pods.jpg",
+      "inStock": true,
+      "price": "3450.00"
+    },
+    {
+      "id": 13,
+      "categoryId": 4,
+      "name": "Fennel",
+      "grams": 500,
+      "imageUrl": "https://butcherspantry.com/wp-content/uploads/2018/06/Wild-Calabrian-Fennel-Seeds-1.jpg",
+      "inStock": true,
+      "price": "14999.00"
+    },
+    {
+      "id": 14,
+      "categoryId": 2,
+      "name": "Sweetie potato",
+      "imageUrl": "https://www.producemarketguide.com/sites/default/files/Commodities.tar/Commodities/sweet-potatoes_commodity-page.png",
+      "inStock": true,
+      "price": "500.00"
+    },
+    {
+      "id": 15,
+      "categoryId": 3,
+      "name": "Kardamom",
+      "grams": 500,
+      "imageUrl": "https://4.imimg.com/data4/YJ/JW/MY-5660307/cardamom-seeds-500x500.jpg",
+      "inStock": true,
+      "price": "900.00"
+    },
+    {
+      "id": 16,
+      "categoryId": 1,
+      "name": "Big Blueberry",
+      "imageUrl": "https://www.thermofisher.com/blog/food/wp-content/uploads/sites/5/2015/08/blueberries__isolated_on_a_white_background.jpg",
+      "inStock": true,
+      "price": "5000.00"
+    },
+    {
+      "id": 17,
+      "categoryId": 1,
+      "name": "Canteloupe",
+      "imageUrl": "https://deluxeproduce.com/wp-content/uploads/2017/06/canary-melon.jpg",
+      "inStock": true,
+      "price": "1950.00"
+    },
+    {
+      "id": 18,
+      "categoryId": 3,
+      "name": "Ghost Pepper",
+      "grams": 500,
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0420/0769/products/Trinidad-Scorpion-Chile-Pepper_1024x1024_eb6f6ece-86b9-49b2-b483-21cb4d5b8598.jpg?v=1513037015",
+      "inStock": true,
+      "price": "2500.00"
+    },
+    {
+      "id": 19,
+      "categoryId": 2,
+      "name": "Pumpkin",
+      "imageUrl": "https://www.veseys.com/media/catalog/product/cache/image/700x700/e9c3970ab036de70892d86c6d221abfe/1/7/17860-jack-be-little.jpg",
+      "inStock": true,
+      "price": "640.00"
+    },
+    {
+      "id": 20,
+      "categoryId": 4,
+      "name": "Lavender",
+      "grams": 500,
+      "imageUrl": "https://thespicelibrary.com.au/wp-content/uploads/2018/04/lavender-flower.jpg",
+      "inStock": true,
+      "price": "3500.00"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Fruits"
+    },
+    {
+      "id": 2,
+      "name": "Vegetables"
+    },
+    {
+      "id": 3,
+      "name": "Spices"
+    },
+    {
+      "id": 4,
+      "name": "Herbs"
+    }
+  ]
+}
